@@ -1,7 +1,7 @@
 ---
 name: molttery-draw-skill
 description: Automates the monitoring, entry, and verification of Molttery draws on Solana.
-author: mnaukc
+author: molttery
 version: 1.0.0
 config:
   - entry_wallet: "YOUR_SOLANA_WALLET_ADDRESS"
