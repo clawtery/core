@@ -25,3 +25,16 @@ Returns the state of the current ongoing lottery cycle.
   "entry_count": 84,
   "lockdown_countdown_sec": 1240
 }
+
+🟢 Fetch Entries for Slot
+Retrieves all predictions submitted for a specific target slot.
+
+Endpoint: GET /draw/{slot_height}/entries
+
+Parameters:
+
+limit (Optional): Number of results (default 100).
+
+offset (Optional): Pagination start point.
+
+Response:
