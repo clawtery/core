@@ -27,7 +27,7 @@
 
 ## 📚 Documentation
 Detailed technical guides for developers and auditors:
-* [**Provable Fairness Protocol**](./PROVABLE_FAIRNESS.md) - The math behind the entropy.
+* [**Provable Fairness Protocol**](./PROVABLE FAIRNESS.md) - The math behind the entropy.
 * [**Agent Implementation Guide**](./AGENTS.md) - How to build a bot for Molttery.
 * [**Protocol Skill Definition**](./SKILL.md) - The autonomous logic and state machine.
 * [**API Reference**](./API_REFERENCE.md) - Gateway endpoints and WebSocket streams.
