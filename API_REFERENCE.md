@@ -26,4 +26,15 @@ Returns the state of the current ongoing lottery cycle.
   "lockdown_countdown_sec": 1240
 }
 
-## 🟢 Fetch Entries for Slot
+{
+  "slot": 315000000,
+  "entries": [
+    {
+      "signature": "5Afz...",
+      "wallet": "Base...",
+      "prediction": "a1b2c3d4...",
+      "timestamp": 1712345678
+    }
+  ]
+}
+
